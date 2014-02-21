@@ -1,0 +1,16 @@
+{
+  "name": "rocknroll",
+  "version": "0.0.1",
+  "description": "Rock n Roll",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha spec"
+  },
+  "keywords": [
+    "rocknroll",
+    "rock",
+    "roll"
+  ],
+  "author": "Yura Rodchyn <rodchyn@gmail.com>",
+  "license": "MIT"
+}
