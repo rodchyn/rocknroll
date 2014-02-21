@@ -7,6 +7,12 @@
     "type": "git",
     "url": "git://github.com/rodchyn/rocknroll.git"
   },
+  "dependencies": {
+    "optimist": "*"
+  },
+  "bin":          {
+    "rock": "./bin/rock"
+  },
   "scripts": {
     "test": "mocha spec"
   },
