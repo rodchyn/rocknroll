@@ -1,9 +1,12 @@
 {
   "name": "rocknroll",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Rock n Roll",
   "main": "rocknroll.js",
-  "repository": {"type": "git", "url": "git://github.com/rodchyn/rocknroll.git"},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rodchyn/rocknroll.git"
+  },
   "scripts": {
     "test": "mocha spec"
   },
